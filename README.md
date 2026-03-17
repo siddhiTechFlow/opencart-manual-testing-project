@@ -10,7 +10,7 @@ Test cases and testing activities were managed using Bugasura and exported as do
 
 ## Application Under Test
 
-OpenCart Demo Website
+OpenCart Demo Website : https://demo.opencart.com/
 
 Application Type: E-commerce Web Application
 
