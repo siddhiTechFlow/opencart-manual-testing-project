@@ -11,7 +11,9 @@ Test cases and testing activities were managed using Bugasura and exported as do
 ## Application Under Test
 
 OpenCart Demo Website
+
 Application Type: E-commerce Web Application
+
 Testing Type: Manual Testing
 
 ---
